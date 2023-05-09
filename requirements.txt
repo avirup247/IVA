@@ -3,3 +3,4 @@ SpeechRecognition
 TK
 PyAudio
 pyttsx3
+pillow
