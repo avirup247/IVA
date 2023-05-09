@@ -51,8 +51,8 @@ def update_image():
         tk_image = ImageTk.PhotoImage(image)
 
         # Update the image in the Tkinter window
-        image_label.configure(image=tk_image)
-        image_label.image = tk_image
+        #image_label.configure(image=tk_image)
+        #image_label.image = tk_image
 
     except Exception as e:
         # Display an error message if image capture fails
